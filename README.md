@@ -6,7 +6,8 @@ The organization requires an Expense Manager Application to efficiently track em
 ## Project Goal
 The goal of this project is to develop a robust Expense Manager Application using modern web technologies. The application will allow users to input their income and expenses, categorizing them into various types for better organization and analysis. By leveraging Spring Boot, Hibernate, and MySQL, the application aims to provide a user-friendly interface for straightforward expense tracking through CRUD operations.
 
-![expense app1](https://github.com/chiragatgit/Portfolio/assets/119803371/bddf1313-ceeb-44e8-9939-865883e323c5)
+![expense app1](https://github.com/chiragatgit/expense_manager_app/assets/119803371/65def05e-9cae-488d-8376-ebcfb3667723)
+
 ## Features of the Application
 The Expense Manager Application will include the following features:
 
